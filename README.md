@@ -28,11 +28,11 @@ For entering through keyboard click the respective keys for respective functions
 
 1 2 3 4 5 6 7 8 9 0 for entering no.   { no keys below F1 F2.... keys  }
 
-"-"             for minus
+B               for minus
 
-=               for plus
+V               for plus
 
-/               for divide
+N               for divide
 
 Spacebar        for equal     
 
@@ -48,7 +48,7 @@ Backspace       for back
 
 A               for ans
 
-.               for .
+D               for .
 
 C               for +/-
 
