@@ -16,7 +16,7 @@
     
     
     
-                                              HOW To RUN THE PROGRAM
+                                              HOW TO RUN THE PROGRAM
 *To run the program you simply have to clone or download the file,the file will be downloaded in zip format,unzip it and run the "html" file naming "Basic calculator.html" in any browser.
                                               
                                               
