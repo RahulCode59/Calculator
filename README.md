@@ -1,5 +1,5 @@
 # Calculator
-                                   CALCULATOR USING JAVASCRIPT
+                                           CALCULATOR USING JAVASCRIPT
 
 *first of all html is used to create the buttons and basic layout of the calculator.
 
