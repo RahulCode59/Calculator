@@ -12,3 +12,13 @@
 *a INTERACTIVE layout has been made.
 
 *Layout has been designed in such a way that it looks colorfull,interactive and easy to use.
+    
+    
+    
+    
+                                              HOW To RUn
+*TO run the program you simply have to clone or download the file and run the "html" file in any browser.
+                                              
+                                              
+                                              SCREENSHOT
+                                              
