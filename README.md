@@ -3,7 +3,7 @@
 
 *first of all html is used to create the buttons and basic layout of the calculator.
 
-*then using java script all the keys are conneted to functions to display the required data.
+*then using java script all the keys are connected to functions to display the required data.
 
 *for linking keys inbuild math functions are used.
 
@@ -11,7 +11,7 @@
 
 *a INTERACTIVE layout has been made.
 
-*Layout has been designed in such a way that it looks colorfull,interactive and easy to use.
+*Layout has been designed in such a way that it looks colourfull,interactive and easy to use.
     
     
     
