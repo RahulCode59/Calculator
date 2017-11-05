@@ -19,6 +19,23 @@
                                               HOW TO RUN THE PROGRAM
 *To run the program you simply have to clone or download the file,the file will be downloaded in zip format,unzip it and run the "html" file naming "Basic calculator.html" in any browser.
                                               
-                                              
-                                         
-                                              
+Data entering can be make through Keyboard and by mouse both.
+For entering through mouse click on the respective icons itself.
+For entering through keyboard click the respective keys for respective functions
+1 2 3 4 5 6 7 8 9 0 for entering no.   { no keys below F1 F2.... keys  }
+-               for minus
+=               for plus
+/               for divide
+Spacebar        for equal     
+M               for multiply                   
+Esc             for clear                               
+Backspace       for back
+{               for (
+}               for )
+A               for ans
+.               for .
+C               for +/-
+L               for ln
+S               for square
+R               for root
+Ctrl            for %
