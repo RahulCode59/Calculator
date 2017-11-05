@@ -180,19 +180,24 @@ runmodolus();
   function runcomp()
  {
  var e=document.frm.result.value
- document.frm.result.value =e*(-1);}
+ document.frm.result.value =e*(-1);
+	 s=0;}
  function runback()
  {
- document.frm.result.value =document.frm.result.value.slice(0,-1);}
+ document.frm.result.value =document.frm.result.value.slice(0,-1);
+	 s=0;}
  function runmodolus()
  {
- document.frm.result.value +="%";}
+ document.frm.result.value +="%";
+	 s=0;}
  function runbrac()
  {
- document.frm.result.value +="(";}
+ document.frm.result.value +="(";
+	 s=0;}
  function runbrac2()
  {
  document.frm.result.value +=")";
+	 s=0;
  }
  
  function run1()
@@ -301,24 +306,28 @@ function run5()
  function runplus()
  {
  document.frm.result.value +="+"; 
- }
+ s=0;
+	 }
  function runminus()
  {
  document.frm.result.value +="-";
- }
+ s=0;
+	 }
  function runmul()
  {
  document.frm.result.value +="*";
- }
+ s=0;
+	 }
  function rundiv()
  {
  document.frm.result.value +="/";
-
+s=0;
  }
  function rundot()
  {
  document.frm.result.value +=".";
- }
+ s=0;
+	 }
 
  function rundel()
  {
