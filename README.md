@@ -53,7 +53,11 @@ Data entering can be make through Keyboard and by mouse both.
 For entering through mouse click on the respective icons itself.
 
                   For entering through keyboard click the respective keys for respective functions
-
+ 
+                                Entering can be done trough num pad keys and
+                                   
+                                         following keys
+                                         
 1 2 3 4 5 6 7 8 9 0 for entering no.   { no keys below F1 F2.... keys  }
 
 B               for minus
