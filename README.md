@@ -21,13 +21,33 @@
 
 Limit of no of elements in display is 12
 
-ans key dispays the last value in screen after deleting,hence gives choice to use last value
+                                            Various buttons and application
+                                             
+"ans" button dispays the last value in screen "which is before deleting",hence gives choice to use last value ie deleted value
+
+"C" button clears the display
+
+"Back" button shows last output
+
+"%" gives modulus
+
+"ln" gives loge
+
+"^2" gives square
+
+"^.5" gives root
+
+"+,-*,/,."  gives plus,minus,multiply,divide,dot respectively
+
+"=" gives evaluated ans
+
+"+/-" gives negative of data
 
 Data entering can be make through Keyboard and by mouse both.
 
 For entering through mouse click on the respective icons itself.
 
-For entering through keyboard click the respective keys for respective functions
+                  For entering through keyboard click the respective keys for respective functions
 
 1 2 3 4 5 6 7 8 9 0 for entering no.   { no keys below F1 F2.... keys  }
 
