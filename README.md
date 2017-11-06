@@ -33,7 +33,7 @@ V               for plus
 
 N               for divide
 
-Spacebar        for equal     
+E               for equal     
 
 M               for multiply                   
 
