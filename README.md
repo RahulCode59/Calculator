@@ -17,8 +17,12 @@
     
     
                                               HOW TO RUN THE PROGRAM
-*To run the program you simply have to clone or download the file,the file will be downloaded in zip format,unzip it and run the "html" file naming "Basic calculator.html" in browser.
-                                              
+*To run the program you simply have to clone or download the file,the file will be downloaded in zip format,unzip it and run the "html" file naming "Basic calculator.html" in browser
+
+Limit of no of elements in display is 12
+
+ans key dispays the last value in screen after deleting,hence gives choice to use last value
+
 Data entering can be make through Keyboard and by mouse both.
 
 For entering through mouse click on the respective icons itself.
