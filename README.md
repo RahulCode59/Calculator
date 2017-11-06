@@ -29,7 +29,7 @@ Limit of no of elements in display is 12
 
 "Back" button shows last output
 
-"%" gives modulus
+"%" for modulus
 
 "ln" gives loge
 
@@ -37,7 +37,7 @@ Limit of no of elements in display is 12
 
 "^.5" gives root
 
-"+,-*,/,."  gives plus,minus,multiply,divide,dot respectively
+"+,-*,/,."  for plus,minus,multiply,divide,dot respectively
 
 "=" gives evaluated ans
 
