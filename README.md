@@ -17,7 +17,10 @@
     
     
                                               HOW TO RUN THE PROGRAM
+
 *To run the program you simply have to clone or download the file,the file will be downloaded in zip format,unzip it and run the "html" file naming "Basic calculator.html" in browser
+
+Each time the function is completed and after completion any "no. key" is pressed it return thevalue of the key
 
 Limit of no of elements in display is 12
 
