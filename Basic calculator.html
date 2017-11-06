@@ -344,7 +344,7 @@ s=0;
  function runequal()
  {
  var x=document.frm.result.value;
- document.frm.result.value="SYNTAX ERROR"
+ document.frm.result.value="SYNTAX ERROR";
  var equala = eval (x);
  if(equala == "Infinity")
 				{
@@ -359,7 +359,8 @@ s=0;
                 document.frm.result.value=equala;
                 a=document.frm.result.value;
 	 }
-              			s=1;	
+              			
+	 s=1;	
 						
 				
  
