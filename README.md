@@ -43,6 +43,8 @@ Limit of no of elements in display is 12
 
 "+/-" gives negative of data
 
+"(,)" gives brackets
+
 Data entering can be make through Keyboard and by mouse both.
 
 For entering through mouse click on the respective icons itself.
